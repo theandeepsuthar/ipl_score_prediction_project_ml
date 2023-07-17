@@ -1,0 +1,72 @@
+body {
+    background-image:url("ms.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+html {
+    height: 100%;
+    margin: 0;
+}
+
+/* Form Styling */
+.form-input {
+    background-color: #E9E9E9;
+    width: 370px;
+    height: 30px;
+    border-radius: 3px;
+    border: 0;
+    text-align: center;
+    -webkit-box-shadow: inset 7px 3px 16px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 7px 3px 16px -10px rgba(0,0,0,0.75);
+    box-shadow: inset 7px 3px 16px -10px rgba(0,0,0,0.75);
+    margin-bottom: 15px;
+}
+
+.myButton {
+    background-color: #ec1818;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 7px 30px;
+    margin-top: 10px;
+    text-decoration: none;
+    transition: 0.5s ease-out;
+    align: center;
+}
+
+.myButton:hover {
+    background-color: #E9E9E9;
+    color: #000000;
+    box-shadow: inset 7px 3px 16px -10px rgba(0,0,0,0.75);
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
+
+/* Heading and Prediction Area Styling */
+.container {
+    margin-left: 50px;
+}
+
+.container-heading {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: left;
+    margin-top:45px;
+}
+
+.predict-area {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 45px;
+    color: white;
+}
