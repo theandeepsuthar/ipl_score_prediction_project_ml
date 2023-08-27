@@ -10,3 +10,8 @@ By leveraging historical match data, the system utilizes machine learning algori
 - **Machine Learning Models**: The system employs various machine learning algorithms, such as regression models or ensemble methods, to predict the scores of IPL matches.
 - **Evaluation Metrics**: The project utilizes appropriate evaluation metrics, such as Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE), to assess the accuracy of the prediction models.
 - **User Interface**: A user-friendly interface allows users to interact with the system, input match details, and obtain score predictions for upcoming IPL matches.
+
+
+## project video 
+https://github.com/thesandeepsuthar/ipl_score_ml/assets/96325817/a296e3ab-ac65-44d3-a555-0cec0e52d64b
+
